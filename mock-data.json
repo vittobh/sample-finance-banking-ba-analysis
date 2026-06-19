@@ -1,0 +1,7 @@
+{"agents":[
+{"id":"doc","name":"Doc Extraction","result":"ID extracted: name + DOB + photo OK"},
+{"id":"id","name":"Identity Verify","result":"Liveness check passed · 98% match"},
+{"id":"sanc","name":"Sanctions Check","result":"OFAC + UN + EU lists clear"},
+{"id":"risk","name":"Risk Score","result":"Score 18/100 · LOW · citing policy clause §3.2"},
+{"id":"dec","name":"Decision","result":"Auto-approve (score < 30 + sanctions clear)"}],
+"risk_score":18}
